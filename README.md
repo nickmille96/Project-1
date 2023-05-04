@@ -1,6 +1,6 @@
-# Project-1
+# Project 1 - Tobacco Use in the U.S. 
 
-Project 1 - Tobacco Use in the U.S.  : Summer Harik, Nicholas Miller, Zalak Gajjar, Anna Reed
+Group Members: Summer Harik, Nicholas Miller, Zalak Gajjar, Anna Reed
 
 Research Questions:
 
@@ -26,3 +26,11 @@ Breakdown of Tasks:
 * Summer - Question 3
 
 * Anna - Question 4 
+
+## Chi-Square Test
+
+* H0: There is no significant association between gender and cigarette use.
+
+* H1: H1: There is a significant association between gender and cigarette use.
+
+* Results: The chi-square value (65.64) is greater than the critical value (3.84), so the null hypothesis is rejected.
