@@ -31,6 +31,6 @@ Breakdown of Tasks:
 
 * H0: There is no significant association between gender and cigarette use.
 
-* H1: H1: There is a significant association between gender and cigarette use.
+* H1: There is a significant association between gender and cigarette use.
 
 * Results: The chi-square value (65.64) is greater than the critical value (3.84), so the null hypothesis is rejected.
